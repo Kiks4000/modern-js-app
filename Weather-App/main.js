@@ -93,6 +93,7 @@ function changeBackground(city) {
 }
 
 changeBackground(city);
+compter();
 
 /* ----- Call the API ----- */
 
